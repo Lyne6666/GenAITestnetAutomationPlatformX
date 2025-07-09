@@ -1,0 +1,2 @@
+# GenAITestnetAutomationPlatformX
+Advanced GenAITestnetAutomationPlatformX project
